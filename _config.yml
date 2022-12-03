@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Crabcake.social Documentation
-email: jason@crabcake.social
+#email: jason@crabcake.social
 description: >- # this means to ignore newlines until "baseurl:"
   Crabcake.social is a small Mastodon community centered around the Chesapeake Bay in the Mid-Atlantic United States.
 baseurl: "" # the subpath of your site, e.g. /blog
