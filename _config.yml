@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Crabcake.social Documentation
+title: Crabcake.social Mastodon Community
 #email: jason@crabcake.social
 description: >- # this means to ignore newlines until "baseurl:"
-  Crabcake.social is a small Mastodon community centered around the Chesapeake Bay in the Mid-Atlantic United States.
+  Crabcake.social is a small Mastodon community located in the Mid-Atlantic region of the United States.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "crabcakesocial.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
