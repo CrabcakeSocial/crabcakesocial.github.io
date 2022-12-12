@@ -6,7 +6,13 @@ layout: home
 ---
 ![Blue crab on the shoreline](/images/blue-crab-on-beach.jpg)
 
-# Documentation for Crabcake.social
-This is where we will document aspects of [Crabcake.social](crabcake.social) that aren't suited to micro-blogging.
+Welcome to **[www.crabcake.social][www].** This page has documentation about the site you *probably* meant to end up at: **[Crabcake.social][crabcake].**
 
-**Crabcake** is a Mastodon social media instance.
+**[Crabcake.social][crabcake]** is a Mastodon social media instance. Go there for microblogging and fun.
+
+
+
+
+
+[crabcake]: https://crabcake.social/
+[www]: https://www.crabcake.social/

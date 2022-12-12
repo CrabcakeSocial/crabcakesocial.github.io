@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Background
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Crabcake.social is a Mastodon instance. We are a general-purpose community originally comprised of users living near the Chesapeake Bay in Maryland and Virginia. Living nearby is not a requirement, however. Anyone is invited to join provided they abide by the community standards.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# Hardware
+
+Crabcake is currently hosted on a [Hetzner VPS][hetzner] in Ashburn, Virginia. We have three CPU threads, 4 GB RAM, and use [Amazon S3 storage][s3] for uploaded files and media.
+
+I calculate that this should be sufficient for several dozen active users or even 100 lazy ones. Regardless, CPU and RAM will be easy to scale upwards if we need to.
+
+I do *not* plan to let the site grow unbounded; there will be an upper limit at some point.
 
 
-[jekyll-organization]: https://github.com/jekyll
+[hetzner]: https://www.hetzner.com/cloud/
+[s3]: https://aws.amazon.com/s3/
