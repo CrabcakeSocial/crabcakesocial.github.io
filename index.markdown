@@ -10,8 +10,14 @@ Welcome to **[www.crabcake.social][www].** This page has documentation about the
 
 **[Crabcake.social][crabcake]** is a Mastodon social media instance. Go there for microblogging and fun.
 
+Crabs can pinch. Beware their claws.
+{: .warning }
 
+This is a note about something.
+{: .note }
 
+A little informational blurb.
+{: .info }
 
 
 [crabcake]: https://crabcake.social/

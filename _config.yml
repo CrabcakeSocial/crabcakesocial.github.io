@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Crabcake.social Mastodon Community
+title: Crabcake.social
 #email: jason@crabcake.social
 description: >- # this means to ignore newlines until "baseurl:"
   Crabcake.social is a small Mastodon community located in the Mid-Atlantic region of the United States.
@@ -30,7 +30,8 @@ mastodon:
 - username: oldbay
   instance: crabcake.social
 # Build settings
-theme: minima
+#theme: minima
+theme: just-the-docs
 plugins:
   - jekyll-feed
 
@@ -53,3 +54,21 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# For just-the-docs theme callout boxes
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
